@@ -1,0 +1,32 @@
+<!DOCTYPEhtml>
+<html>
+<head>
+<title>Computer exam
+</title>
+<style>
+body { background-image: url("galilee1.jpg");
+       background-repeat: no-repeat;
+	   background-size: cover;
+	   background-position: center;}
+</style>
+<link rel="stylesheet" href="mystyle.css">
+</head>
+<center><body>
+<h1> MISSION
+<p> Provide students with top-notch education and skills 
+training combined with spiritual,moral and personal development.
+<h2> VISION
+<p> To be and institution that raises citizens ready to face the
+ future-strengthened through education,under the guidance of God Almighty.
+<h3> GOAL
+<p>to WIN the youth's heart and minds,CONSOLIDATE them through guidance and 
+education,help them be DISCIPLES of God, and SEND them leaders who would creat positive change in the world.
+
+<h4>OBJECTIVES
+<p> To provide relevant,up-to-date,afordable education to all students in order to prepare them for their chosen career.
+<p>  To work with the Dpartment of Eduation in the successful implementation of goals of the K12 program.
+<p>To work in partnership with establishments in providing students with real-world application of skills and knowledge.
+<p> Employ and train competent teachers to provide students with the guidance and intsructuion in developing their skills and increasing thier knowledge.
+</table>
+</center></body>
+</html>
