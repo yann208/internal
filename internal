@@ -4,7 +4,7 @@
 <title>Computer exam
 </title>
 <style>
-body { background-image: url("galilee1.jpg");
+body { background-image: url("galilee.jpg");
        background-repeat: no-repeat;
 	   background-size: cover;
 	   background-position: center;}
